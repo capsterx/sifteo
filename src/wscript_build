@@ -1,0 +1,1 @@
+bld.sifteo(assets='assets.lua', source='main.cpp', target='connection.elf')
